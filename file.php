@@ -1,3 +1,4 @@
+<?php
 function limpa_str($string) {
 	
 	$string = strtr($string,
