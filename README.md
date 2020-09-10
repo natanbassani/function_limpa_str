@@ -1,2 +1,2 @@
-# function_limpa_str
-Limpa strings de acentos e caracteres especiais
+# function_limpa_str_php
+Limpa strings de acentos e caracteres especiais - PHP
